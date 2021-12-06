@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Chango&display=swap" rel="stylesheet">
+    <meta charset=”UTF-8”>
+
+<!-- THE TITLE WILL APPEAR IN THE BROWSER WINDOW OR TAB -->
+<title>Tip of the Spear</title>
+<link rel="stylesheet" type="text/css" href="styles-contact.css"
+</head>
+
+<body>
+<div class="center">
+    <img id="logo" src="images/tits.png" alt="Tip of the Spear Dive, Fish, Surf">
+    <h1>Tip of the Spear</h1>
+    <h2>Visit one of our locations to have all your diving, fishing, and surfing needs met. Tours, rentals, and charters offered daily!</h2>
+    <p>Honolulu, Hi - San Diego, Ca - Pensacola, Fl</p>
+
+    <nav>
+        <ul>
+            <li><a href=http://www.hurley.com target="_blank"> FoCo Brochure</a></li>
+            <li><a href=http://www.calpoly.edu target="_blank"> Cal Poly</a></li>
+            <li><a href="mailto:cvodicka@calpoly.edu"> Email Us</a></li>
+        </ul>
+    </nav>
+</div> <!--end of center div-->
+    
+</body>
+</html>
